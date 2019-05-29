@@ -105,3 +105,37 @@ header{
 	font-weight: bold;
 
 }
+.div--texto{
+
+}
+.titulo{
+	color: white;
+	font-size: 20px;
+}
+.link__home{
+	color: #E67816;
+}
+.fundo__section{
+	background: #333333;
+	height: 60vh;
+	display: flex;
+}
+.div__Container{
+	margin-right: 2%;
+}
+.section__home{
+	color: #85C226;
+	font-size: 46px;
+	font-weight: bold;
+}
+.paragrafo__home{
+	color: white;
+	font-size: 13px;
+	margin:  17px 0 17px 0;
+	margin-right: 11%;
+	padding-bottom: 3%;
+}
+.div__imagem--footer{
+	display: flex;
+	align-items: center;
+}
